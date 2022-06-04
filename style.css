@@ -1,0 +1,45 @@
+body {
+	background: gainsboro;
+	font-family: verdana;
+	max-width: 800px;
+	margin: auto;
+
+}
+
+.photo {
+	border-radius: 50px ;
+}
+#title, .subtitle, .post_title {
+	color: darkred;
+}
+
+.title {
+	text-decoration-line: underline;
+	color: indianred;
+
+}
+.post_title {
+	font-size: 17px;
+	font-style: italic;
+	margin: 0;
+	margin-bottom: 15px;
+
+}
+.post {
+	background: lightsalmon;
+	padding: 6px 6px 8px 8px;
+	border: 3px solid dimgray;
+	margin-bottom: 15px;
+}
+.post_content{
+	margin: 0;
+	margin-bottom: 15px;
+	font-size: 14px;
+}
+.photo_insta{
+	border-radius: 25px;
+}
+.content_list{
+	list-style-type: none;
+
+}
